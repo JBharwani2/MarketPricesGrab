@@ -4,6 +4,6 @@ Market Prices Grab scrapes data from a financial data webpage and compiles it in
 # Run Command
 [WINDOWS-KEY + R] and type 'pricegrab'
 
-# Batch File:
+# Batch File - pricegrab.bat
 @py.exe (user specific path to python file) %*
 @pause
