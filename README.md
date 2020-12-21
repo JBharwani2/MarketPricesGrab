@@ -5,6 +5,7 @@ Webpage: [Yahoo Finance Historical Data](https://finance.yahoo.com/quote/CPSS/hi
 
 # Imported Libraries
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
 [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/#)
 
 # Batch File - pricegrab.bat
