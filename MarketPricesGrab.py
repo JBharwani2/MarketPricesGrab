@@ -48,8 +48,8 @@ from openpyxl.styles.borders import Border, Side
 
 def main():
     yahoo_url = 'https://finance.yahoo.com/quote/CPSS/history?p=CPSS'
-    file_name = 'PriceGrabTest.xlsx'
-    file_dir = 'C:\\Users\\Jeremy\\Documents'  # file path not pushed to git
+    file_name = '.xlsx'  # file name not pushed to git
+    file_dir = 'C:\\'  # file path not pushed to git
     titles = ['date', 'open', 'high', 'low', 'close', 'volume']
     data = {}
 
